@@ -28,4 +28,5 @@ public void init() {
     MockitoAnnotations.initMocks(this);
 }
 ```
+##### verifyZeroInteraction(mockclass)
 
