@@ -30,3 +30,16 @@ public void init() {
 ```
 ##### verifyZeroInteraction(mockclass)
 
+
+#### PowerMock, first verifies and then invokes the method, used for static method, private method invocation
+
+#### Mockito - how to test void method.
+  using the ```dothrow () ```
+
+#### doAnswer ()
+
+##### doNothing () - used for void method for sequence of verification
+
+##### doCallRealMethod ()
+
+
